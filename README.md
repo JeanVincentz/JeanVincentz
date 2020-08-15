@@ -4,7 +4,6 @@ Build, break, re-build
 
 Skills: HTML / CSS / JS / PHP
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Multiple projects 
 - 🤔 I’m looking for help with First job | Alternance / Premier emploi  
