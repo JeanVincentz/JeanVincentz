@@ -1,12 +1,11 @@
 ![Alt text](https://github.com/JeanVincentz/screen/blob/master/banner.png)
 
-Build, break, re-build
+Builds, break, re-builds
 
 Skills: HTML / CSS / JS / PHP
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Angular & Python 
 - 👯 I’m looking to collaborate on Multiple projects 
-- 🤔 I’m looking for help with First job | Alternance / Premier emploi  
 - 📫 How to reach me: https://jean-vincentz.fr/#contact 
 
 
