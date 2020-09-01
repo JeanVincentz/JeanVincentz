@@ -3,8 +3,7 @@
 Builds, break, re-builds
 
 Skills: HTML / CSS / JS / PHP
-
-- 🌱 I’m currently learning Angular & Python 
+ 
 - 👯 I’m looking to collaborate on Multiple projects 
 - 📫 How to reach me: https://jean-vincentz.fr/#contact 
 
