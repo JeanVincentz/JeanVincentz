@@ -1,5 +1,3 @@
-![Alt text](https://github.com/JeanVincentz/screen/blob/master/banner.png)
-
 Builds, break, re-builds
 
 Skills: HTML / CSS / JS / PHP
