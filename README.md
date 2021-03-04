@@ -3,7 +3,8 @@ Builds, break, re-builds
 Skills: HTML / CSS / JS / PHP
  
 - 👯 I’m looking to collaborate on Multiple projects 
-- 📫 How to reach me: [Contact](https://jean-vincentz.fr/) !
+- 📫 How to contact me: [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://jean-vincentz.fr/)
+
 [LinkedIn](https://fr.linkedin.com/in/jean-vincentz)
 
 
